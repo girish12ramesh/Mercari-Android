@@ -33,7 +33,6 @@ public class MainActivityBasicTesting {
     /**
      * Clicks on a GridView item and checks it opens up the OrderActivity with the correct details.
      */
-
     @Test
     public void clickGridViewItem_OpensOrderActivity() {
 

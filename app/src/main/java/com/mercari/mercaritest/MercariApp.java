@@ -6,9 +6,6 @@ import android.app.Application;
 public class MercariApp extends Application {
 
     private AppComponent appComponent;
-
-
-
     @Override
     public void onCreate() {
         super.onCreate();
