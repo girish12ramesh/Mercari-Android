@@ -41,8 +41,7 @@ public class MainActivityBasicTesting {
 
         // Check the price text quantity variable
         onView((withId(R.id.price_text))).check(matches(withText("10")));
-        // Check if the sold product is visible
-
+        // Check for sold products
        // onView((withId(R.id.sold))).perform(click()).check(matches(Matcher));
 
     }
