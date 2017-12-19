@@ -1,4 +1,4 @@
-# Pre-work - *Mercari Application*
+# Pre-work - *Product Application*
 
  An android app that displays a list of products.
 
