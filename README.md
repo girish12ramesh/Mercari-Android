@@ -1,6 +1,6 @@
 # Pre-work - *Mercari Application*
 
-**Mercari** is an android app that displays a list of products.
+ An android app that displays a list of products.
 
 Submitted by: **Girish Bangalore Ramesh**
 
