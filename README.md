@@ -2,7 +2,7 @@
 
  An android app that displays a list of products.
 
-Submitted by: **Girish Bangalore Ramesh**
+Created by: **Girish Ramesh**
 
 Time spent: **2** hours spent in total
 
