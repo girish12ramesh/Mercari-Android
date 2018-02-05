@@ -1,4 +1,4 @@
-# Pre-work - *Product Application*
+# *Product Application*
 
  An android app that displays a list of products.
 
