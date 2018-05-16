@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 */
-        //RxJava -Observer, Observable, Subscriber,Sechedulers
+        //RxJava -Observer, Observable, Subscriber,Sechedulers- Will make use of this.
         Restapi service=null;
         service.getItems().subscribeOn(Schedulers.newThread())
                 .observeOn(rx.android.schedulers.AndroidSchedulers.mainThread()).subscribe(new Subscriber<Response>() {
